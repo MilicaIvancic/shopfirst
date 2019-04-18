@@ -1,0 +1,11 @@
+imam problem sa kolicnom u korpi (kada dohvata value dohvata od prvog...)
+
+kako da realizujem zavrsetak kupovine korpe?
+
+u kontroleru frontend sam pisala korpu -.- (prekasno sam shvatila da mi za to treba resurs ruta) mogu li ovo da nadoknadim admin panelom??
+
+imam problem sa post metomom slanja preko ajaxa.
+
+da li mogu da krenem na admin panel posle ovoga ne verujem da cu stici bilo sta drugio? 
+
+ukupna suma, znam da moze preko upita al moze li preko petlje u blejdu/? (lakse)
